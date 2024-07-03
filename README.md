@@ -7,3 +7,5 @@ A simple API for searching word in Quran.
 ```bash
 npm install quran-search
 ```
+
+![alt text](image.png)
