@@ -1,0 +1,19 @@
+{
+  "name": "quran-search",
+  "version": "1.0.0",
+  "description": "A simple Node.js wrapper for the Quran API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickty/quran-search.git"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickty/quran-search/issues"
+  },
+  "homepage": "https://github.com/nickty/quran-search#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
