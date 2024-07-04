@@ -1,6 +1,9 @@
 const axios = require("axios");
+const cors = require("cors");
 
 const BASE_URL = "http://api.alquran.cloud/v1/search";
+
+app.use(cors());
 
 async function searchQuran(keyword, language = "en") {
   try {
